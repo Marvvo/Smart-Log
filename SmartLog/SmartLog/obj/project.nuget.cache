@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "IfzjcL+e9o8=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\paulw\\source\\repos\\SmartLog\\SmartLog\\SmartLog.Gui.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\paulw\\.nuget\\packages\\dynamicdata\\9.4.1\\dynamicdata.9.4.1.nupkg.sha512",
+    "C:\\Users\\paulw\\.nuget\\packages\\reactiveui\\22.2.1\\reactiveui.22.2.1.nupkg.sha512",
+    "C:\\Users\\paulw\\.nuget\\packages\\reactiveui.wpf\\22.2.1\\reactiveui.wpf.22.2.1.nupkg.sha512",
+    "C:\\Users\\paulw\\.nuget\\packages\\splat\\17.1.1\\splat.17.1.1.nupkg.sha512",
+    "C:\\Users\\paulw\\.nuget\\packages\\splat.builder\\17.1.1\\splat.builder.17.1.1.nupkg.sha512",
+    "C:\\Users\\paulw\\.nuget\\packages\\splat.core\\17.1.1\\splat.core.17.1.1.nupkg.sha512",
+    "C:\\Users\\paulw\\.nuget\\packages\\splat.logging\\17.1.1\\splat.logging.17.1.1.nupkg.sha512",
+    "C:\\Users\\paulw\\.nuget\\packages\\system.reactive\\6.1.0\\system.reactive.6.1.0.nupkg.sha512",
+    "C:\\Users\\paulw\\.nuget\\packages\\microsoft.windows.sdk.net.ref\\10.0.19041.57\\microsoft.windows.sdk.net.ref.10.0.19041.57.nupkg.sha512"
+  ],
+  "logs": []
+}

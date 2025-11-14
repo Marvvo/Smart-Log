@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "ozR/dVb099I=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\paulw\\source\\repos\\SmartLog\\SmartLog.Dal\\SmartLog.Dal.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\paulw\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\10.0.0\\microsoft.extensions.dependencyinjection.10.0.0.nupkg.sha512",
+    "C:\\Users\\paulw\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\10.0.0\\microsoft.extensions.dependencyinjection.abstractions.10.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
