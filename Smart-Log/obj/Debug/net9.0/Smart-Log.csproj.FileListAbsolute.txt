@@ -1,0 +1,11 @@
+C:\Users\marvin.poppe\Desktop\Schule\LF 12\Smart-Log\bin\Debug\net9.0\Smart-Log.deps.json
+C:\Users\marvin.poppe\Desktop\Schule\LF 12\Smart-Log\bin\Debug\net9.0\Smart-Log.dll
+C:\Users\marvin.poppe\Desktop\Schule\LF 12\Smart-Log\bin\Debug\net9.0\Smart-Log.pdb
+C:\Users\marvin.poppe\Desktop\Schule\LF 12\Smart-Log\obj\Debug\net9.0\Smart-Log.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marvin.poppe\Desktop\Schule\LF 12\Smart-Log\obj\Debug\net9.0\Smart-Log.AssemblyInfoInputs.cache
+C:\Users\marvin.poppe\Desktop\Schule\LF 12\Smart-Log\obj\Debug\net9.0\Smart-Log.AssemblyInfo.cs
+C:\Users\marvin.poppe\Desktop\Schule\LF 12\Smart-Log\obj\Debug\net9.0\Smart-Log.csproj.CoreCompileInputs.cache
+C:\Users\marvin.poppe\Desktop\Schule\LF 12\Smart-Log\obj\Debug\net9.0\Smart-Log.dll
+C:\Users\marvin.poppe\Desktop\Schule\LF 12\Smart-Log\obj\Debug\net9.0\refint\Smart-Log.dll
+C:\Users\marvin.poppe\Desktop\Schule\LF 12\Smart-Log\obj\Debug\net9.0\Smart-Log.pdb
+C:\Users\marvin.poppe\Desktop\Schule\LF 12\Smart-Log\obj\Debug\net9.0\ref\Smart-Log.dll
