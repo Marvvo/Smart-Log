@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Test-für-Smart_Log/1.0.0": {
+        "dependencies": {
+          "Smart-Log": "9.0.1"
+        },
+        "runtime": {
+          "Test-für-Smart_Log.dll": {}
+        }
+      },
+      "Smart-Log/9.0.1": {
+        "runtime": {
+          "Smart-Log.dll": {
+            "assemblyVersion": "9.0.1.0",
+            "fileVersion": "9.0.1.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Test-für-Smart_Log/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Smart-Log/9.0.1": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

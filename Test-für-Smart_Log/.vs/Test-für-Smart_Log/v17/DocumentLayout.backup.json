@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\marvin.poppe\\Desktop\\Schule\\LF 12\\Test-f\u00FCr-Smart_Log\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{01F56C6F-F7BC-4472-F01D-0B4DE14805D8}|..\\Smart-Log\\Smart-Log.csproj|c:\\users\\marvin.poppe\\desktop\\schule\\lf 12\\smart-log\\smart_log.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D6D149B-0754-432E-A3E5-229A8F563A25}|Test-f\u00FCr-Smart_Log.csproj|c:\\users\\marvin.poppe\\desktop\\schule\\lf 12\\test-f\u00FCr-smart_log\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D6D149B-0754-432E-A3E5-229A8F563A25}|Test-f\u00FCr-Smart_Log.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 424,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Smart_Log.cs",
+              "DocumentMoniker": "C:\\Users\\marvin.poppe\\Desktop\\Schule\\LF 12\\Smart-Log\\Smart_Log.cs",
+              "RelativeDocumentMoniker": "..\\Smart-Log\\Smart_Log.cs",
+              "ToolTip": "C:\\Users\\marvin.poppe\\Desktop\\Schule\\LF 12\\Smart-Log\\Smart_Log.cs",
+              "RelativeToolTip": "..\\Smart-Log\\Smart_Log.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAMA9wA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T07:35:47.65Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\marvin.poppe\\Desktop\\Schule\\LF 12\\Test-f\u00FCr-Smart_Log\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\marvin.poppe\\Desktop\\Schule\\LF 12\\Test-f\u00FCr-Smart_Log\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAhwA0AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T07:30:30.457Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 424,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 143,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

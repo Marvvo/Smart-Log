@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36327.8 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test-für-Smart_Log", "Test-für-Smart_Log.csproj", "{0D6D149B-0754-432E-A3E5-229A8F563A25}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Smart-Log", "..\Smart-Log\Smart-Log.csproj", "{01F56C6F-F7BC-4472-F01D-0B4DE14805D8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0D6D149B-0754-432E-A3E5-229A8F563A25}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D6D149B-0754-432E-A3E5-229A8F563A25}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D6D149B-0754-432E-A3E5-229A8F563A25}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D6D149B-0754-432E-A3E5-229A8F563A25}.Release|Any CPU.Build.0 = Release|Any CPU
+		{01F56C6F-F7BC-4472-F01D-0B4DE14805D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01F56C6F-F7BC-4472-F01D-0B4DE14805D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01F56C6F-F7BC-4472-F01D-0B4DE14805D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01F56C6F-F7BC-4472-F01D-0B4DE14805D8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {28DC61DA-39A0-4495-84D4-43D76824BA73}
+	EndGlobalSection
+EndGlobal
